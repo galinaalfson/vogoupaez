@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://saarohyei.rctlounge.com/sitemap.xml
